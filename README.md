@@ -1,2 +1,5 @@
 # Network
-This is a network that can recognize objects like dogs, cats and houses. It can also locate people's faces on a picture.
+## Description
+A network capable of recognizing things like cats dogs and houses on a picture. It can also locate a person's face. It consists in training the computer to recognize those things.
+## Technology:
+Python, PIL, TensorFlow, CV2, OS, NumPy, MatPlotLib
